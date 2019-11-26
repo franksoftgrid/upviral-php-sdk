@@ -1,0 +1,22 @@
+{
+    "name": "upviral/php-sdk",
+    "description": "Upviral PHP SDK",
+    "type": "library",
+	"keywords": ["upviral", "api", "sdk"],
+	"homepage": "https://upviral.com",
+    "require": {
+        "guzzlehttp/guzzle": "^6.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Upviral",
+            "email": "info@upviral.com"
+        }
+    ],
+	"autoload": {
+        "psr-4": {
+            "Upviral\\": "lib/Upviral/"
+        }
+    }
+}
