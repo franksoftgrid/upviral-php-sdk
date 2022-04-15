@@ -5,7 +5,7 @@
 	"keywords": ["upviral", "api", "sdk"],
 	"homepage": "https://upviral.com",
     "require": {
-        "guzzlehttp/guzzle": "^6.4"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "license": "MIT",
     "authors": [
